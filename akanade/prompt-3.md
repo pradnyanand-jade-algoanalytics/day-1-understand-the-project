@@ -4,13 +4,13 @@ Solve the following equation and find all its roots. Show your step-by-step reas
 Equation: x² - 5x + 6 = 0
 
 # Observations : 
-## Observations
 - The model correctly solved the quadratic equation and provided appropriate step-by-step reasoning, including factorization and verification of the roots.
 - However, the response also included content from the previous prompt regarding AI, ML, Deep Learning, Generative AI, and Agentic AI, which was unrelated to the current query.
 - This unexpected inclusion suggests that the model may be receiving or retaining more conversational context than necessary for the current prompt.
 - The response was accurate for the mathematical problem but contained unnecessary information, affecting its relevance and conciseness.
 
-# Potential Improvement: Investigate how conversational context is managed and passed to the model to ensure that previous interactions do not unnecessarily influence responses to unrelated queries.
+# Potential Improvement: 
+- Investigate how conversational context is managed and passed to the model to ensure that previous interactions do not unnecessarily influence responses to unrelated queries.
 
 # Model Details
 - Model: DeepSeek V4.1 Flash
