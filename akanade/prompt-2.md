@@ -24,7 +24,7 @@ Present the answer in a structured format with a comparison table at the end. Us
 # Model Details
 - Model: DeepSeek V4.1 Flash
 - Mode: Standard
-- Latency: 16 seconds
+- Latency: 21 seconds
 
 # Answer : 
 
