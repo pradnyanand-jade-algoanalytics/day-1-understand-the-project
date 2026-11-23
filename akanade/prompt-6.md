@@ -23,8 +23,8 @@ Follow these instructions:
 
 # Answer : 
 
-RAG finds relevant documents.
-AI reads retrieved data.
-Generates accurate factual answers.
-Prevents wrong AI guesses.
-Example: Support chatbot.
+- RAG finds relevant documents.
+- AI reads retrieved data.
+- Generates accurate factual answers.
+- Prevents wrong AI guesses.
+- Example: Support chatbot.
