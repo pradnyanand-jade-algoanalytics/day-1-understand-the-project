@@ -1,4 +1,4 @@
-# Prompt : 
+# Prompt (Reasoning Ability) : 
 Solve the following equation and find all its roots. Show your step-by-step reasoning, explain the mathematical methods used, and verify your final answers by substituting the roots back into the original equation.
 
 Equation: x² - 5x + 6 = 0
