@@ -1,4 +1,4 @@
-# Prompt : 
+# Prompt (General Knowledge): 
 
 Explain the differences between Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Generative AI, and Agentic AI.
 
@@ -10,6 +10,15 @@ For each concept:
 
 Present the answer in a structured format with a comparison table at the end. Use simple language suitable for someone with a technical background but who is new to these concepts.
 
+# Observations
+- The model generated the response in the expected format, including explanations and a comparison table.
+- The response was citation-backed, with links provided to support the information presented.
+- The response was well-structured and covered the requested concepts.
+
+# Model Details
+- Model: DeepSeek V4.1 Flash
+- Mode: Standard
+- Latency: 16 seconds
 
 # Answer : 
 
@@ -78,3 +87,4 @@ DL	ML with multilayer neural networks	Weighted sums + activation functions acros
 Generative AI	AI that produces new content from prompts	Probabilistic model over learned patterns; returns the likeliest response	Chat assistant writing text; image generation	Subset of DL/ML/AI; supplies the "brain" inside agents
 Agentic AI	AI that perceives, plans, and acts autonomously toward a goal	Perceive → reason → plan → act → observe loop, with memory and tools	Agent that books your flight and hotel	Compositional, not a strict subset: LLM reasoning plus conventional software
 The one-line mental model: AI is the field, ML is learning from data, DL is learning with deep neural nets, GenAI is deep nets that produce content, and Agentic AI is a GenAI model wrapped in a loop with tools and memory so it can act ai.gov.uk, pressbooks.towson.edu.
+
