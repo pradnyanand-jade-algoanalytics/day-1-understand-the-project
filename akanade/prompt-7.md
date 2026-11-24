@@ -1,6 +1,6 @@
 # Prompt (Context retention check): 
-Prompt 1 : My name is Pradnyanand Jade
-Prompt 2 : Who Am I
+- Prompt 1 : My name is Pradnyanand Jade
+- Prompt 2 : Who Am I
 
 # Observations
 - The model successfully retained information provided in the previous conversation turn.
@@ -19,5 +19,5 @@ Prompt 2 : Who Am I
 
 # Answer : 
 
-Answer 1 : Nice to meet you, Pradnyanand! How can I help you today?
-Answer 2 : You are Pradnyanand Jade!
+- Answer 1 : Nice to meet you, Pradnyanand! How can I help you today?
+- Answer 2 : You are Pradnyanand Jade!
